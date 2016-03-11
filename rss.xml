@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[atensystems]]></title>
         <description><![CDATA[atensystems]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/atensystems/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Mar 2016 06:07:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 11 Mar 2016 06:19:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/atensystems/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Citizen Self Services]]></title>
+            <description><![CDATA[<article><h1>Citizen Self Services</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/85d907784d807fced40be65570d2f69ca2917e5b.png"></article>]]></description>
+            <link>https://thegrid.ai/atensystems/citizen-self-services/index.html</link>
+            <guid isPermaLink="false">368ada7b-d2ef-4a8d-a1ba-522c9f3a10e5</guid>
+            <pubDate>Fri, 11 Mar 2016 06:19:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/453d1b02-aae9-4e4d-9810-c7b5a4d02c86.jpg">]]></description>
-            <link>undefinedca9a5861-9bf2-4d84-9e7c-2ac5e2c53480/index.html</link>
+            <link>https://thegrid.ai/atensystems/ca9a5861-9bf2-4d84-9e7c-2ac5e2c53480/index.html</link>
             <guid isPermaLink="false">ca9a5861-9bf2-4d84-9e7c-2ac5e2c53480</guid>
             <pubDate>Fri, 11 Mar 2016 06:06:52 GMT</pubDate>
         </item>
