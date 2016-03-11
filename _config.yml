@@ -21,7 +21,7 @@ color:
     - '#bebebe'
     - '#ff0000'
     - '#ff8080'
-  brandStrength: 1
+  brandStrength: 0.5
   lightness: 0.75
   saturation: 0.375
   rhythmicContrast: 0.6074949207250029
